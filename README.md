@@ -1,4 +1,4 @@
-:octocat:  :arrow_left: You Are Here :round_pushpin:
+:octocat:  :arrow_left: YOU ARE HERE :round_pushpin:
 
 **Hello! 👋 I'm Mark Lotspaih, a continuously learning IT generalist and project manager.**
 
