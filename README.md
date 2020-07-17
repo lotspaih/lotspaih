@@ -1,6 +1,6 @@
 ### Hello! 👋 I'm Mark Lotspaih, a continuously learning IT generalist, project manager, and automation enthusiast. 
 
--  :octocat: <-- You Are Here
+-  :octocat: <-- You Are Here :round_pushpin:
 - 🌱 I’m currently learning Javascript
 -  :globe_with_meridians: My personal website is [here](http://lotspaih.com)
 -  :bookmark: I like to share links [here](https://pinboard.in/u:mlotspaih/public/)
