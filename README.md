@@ -1,16 +1,13 @@
-### Hello! :wave: I'm Mark Lotspaih, a continuously learning IT generalist and project manager.
+### Hello! :wave: I'm Mark Lotspaih, a Continuously Learning IT Generalist and [Project Manager](https://github.com/topics/project-management).
 
+- :hammer: I work as a Systems and Network Administrator in a K-12 Public School District
 - :school: I'm currently preparing district technology for staff and students returning to school or remote learning
 - :books: I’m continuing to learn more about automating :robot: with [Powershell](https://github.com/powershell/powershell) and [Python](https://github.com/python)
-- :thought_balloon: I'd like to learn more about improving my [technical writing](https://developers.google.com/tech-writing) skills :pencil:
-
-### Connect with me:
-
-[<img align="left" alt="lotspaih.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+- :thought_balloon: I'd like to improve my [technical writing](https://developers.google.com/tech-writing) skills :pencil: and learn more about the [A3 problem solving](https://en.wikipedia.org/wiki/A3_problem_solving) process
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools I Use Most Often:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
@@ -27,6 +24,4 @@
 <br />
 
 :four: :two: **"We are stuck with technology when what we really want is just stuff that works."** - [Douglas Adams](https://douglasadams.com/)
-
-[website]: https://lotspaih.com
 
