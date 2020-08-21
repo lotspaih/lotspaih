@@ -5,8 +5,6 @@
 - :books: I’m continuing to learn more about automating :robot: with [Powershell](https://github.com/powershell/powershell) and [Python](https://github.com/python)
 - :thought_balloon: I'd like to improve my [technical writing](https://developers.google.com/tech-writing) skills :pencil: and learn more about the [A3 problem solving](https://en.wikipedia.org/wiki/A3_problem_solving) process
 
-<br />
-
 ### Languages and Tools I Use Most Often:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
