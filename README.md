@@ -1,9 +1,8 @@
 ### Hello! :wave: I'm Mark Lotspaih, a Continuously Learning IT Generalist and [Project Manager](https://github.com/topics/project-management).
 
-- :hammer: I work as a Systems and Network Administrator in a K-12 Public School District
 - :school: I'm currently preparing district technology for staff and students returning to school or remote learning
 - :books: I’m continuing to learn more about automating :robot: with [Powershell](https://github.com/powershell/powershell) and [Python](https://github.com/python)
-- :thought_balloon: I'd like to improve my [technical writing](https://developers.google.com/tech-writing) skills :pencil: and learn more about the [A3 problem solving](https://en.wikipedia.org/wiki/A3_problem_solving) process
+- :thought_balloon: I'd like to improve my [technical writing](https://developers.google.com/tech-writing) skills :pencil: and learn more about the [user experience design](https://en.wikipedia.org/wiki/User_experience_design) process
 
 ### Languages and Tools I Use Most Often:
 
