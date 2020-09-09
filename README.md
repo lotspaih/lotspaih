@@ -1,8 +1,8 @@
 ### Hello! :wave: I'm Mark Lotspaih, a Continuously Learning IT Generalist and Project Manager.
 
-- :school: I'm currently preparing district technology for staff and students returning to school or remote learning
+- :school: I'm currently supporting district technology for staff and students in school or remote learning
 - :books: I’m continuing to learn more about automating :robot: with [Powershell](https://github.com/powershell/powershell) and [Python](https://github.com/python)
-- :thought_balloon: I'd like to improve my [technical writing](https://developers.google.com/tech-writing) skills :pencil: 
+- :thought_balloon: I'd like to continue improving my [technical writing](https://developers.google.com/tech-writing) :pencil: and project management skills 
 
 ### Languages and Tools I Use Most Often:
 
