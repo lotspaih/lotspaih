@@ -2,7 +2,7 @@
 
 - :school: I'm currently supporting district technology for staff and students in school or remote learning
 - :books: I’m continuing to learn more about automating :robot: with [Powershell](https://github.com/powershell/powershell) and [Python](https://github.com/python)
-- :thought_balloon: I'd like to continue improving my [technical writing](https://developers.google.com/tech-writing) :pencil: and project management skills 
+- :thought_balloon: I'd like to continue improving my [technical writing](https://developers.google.com/tech-writing) :pencil: and SQL :ledger: skills
 
 ### Languages and Tools I Use Most Often:
 
