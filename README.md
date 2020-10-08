@@ -2,7 +2,7 @@
 
 A continuously learning IT project manager and systems administrator with a focus on agility, automation, and educational technology.
 
-- :page_with_curl: I enjoy managing short-term or iterative projects, and automating repetitive processes
+- :page_with_curl: I enjoy managing short-term or iterative projects, automating repetitive processes, and data conversions
 - :books: I’m continuing to learn more about automating :robot: with Powershell, and coding with C#
 - :thought_balloon: I'd like to continue improving my technical writing :pencil: and SQL/Database Management skills
 
