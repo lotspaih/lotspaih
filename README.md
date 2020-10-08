@@ -1,6 +1,6 @@
 ### Hello! :wave: I'm Mark Lotspaih, a continuously learning IT Project Manager and Systems Administrator.
 
-- :school: I'm currently supporting district technology for staff and students in school or remote learning
+- :page_with_curl: I'm a Certified Agile Project Manager and Professional Scrum Master
 - :books: I’m continuing to learn more about automating :robot: with [Powershell](https://github.com/powershell/powershell) and [Python](https://github.com/python)
 - :thought_balloon: I'd like to continue improving my [technical writing](https://developers.google.com/tech-writing) :pencil: and SQL :ledger: skills
 
