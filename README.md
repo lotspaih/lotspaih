@@ -1,4 +1,4 @@
-### Hello! :wave: I'm Mark Lotspaih, a Continuously Learning IT Generalist and Project Manager.
+### Hello! :wave: I'm Mark Lotspaih, a continuously learning IT Project Manager and Systems Administrator.
 
 - :school: I'm currently supporting district technology for staff and students in school or remote learning
 - :books: I’m continuing to learn more about automating :robot: with [Powershell](https://github.com/powershell/powershell) and [Python](https://github.com/python)
