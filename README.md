@@ -1,4 +1,4 @@
-### Hello! :wave: I'm Mark Lotspaih, a continuously learning IT Project/Product Manager and Systems Administrator.
+### Hello! :wave: I'm Mark Lotspaih, a continuously learning IT Project Manager and Systems Administrator.
 
 - :page_with_curl: I'm a Certified Project Manager and Professional Scrum Master
 - :books: I’m continuing to learn more about automating :robot: with Powershell, and coding with C#
