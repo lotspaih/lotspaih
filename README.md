@@ -1,8 +1,8 @@
 ### Hello! :wave: I'm Mark Lotspaih, a continuously learning IT Project Manager and Systems Administrator.
 
-- :page_with_curl: I'm a Certified Agile Project Manager and Professional Scrum Master
+- :page_with_curl: I'm a Certified Agile Project Manager, a Professional Scrum Master, and an Educational Technologist
 - :books: I’m continuing to learn more about automating :robot: with [Powershell](https://github.com/powershell/powershell) and [Python](https://github.com/python)
-- :thought_balloon: I'd like to continue improving my [technical writing](https://developers.google.com/tech-writing) :pencil: and SQL :ledger: skills
+- :thought_balloon: I'd like to continue improving my [technical writing](https://developers.google.com/tech-writing) :pencil: and SQL/Database Management skills
 
 ### Languages and Tools I Use Most Often:
 
