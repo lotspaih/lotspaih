@@ -2,6 +2,10 @@
 
 A continuously learning IT project manager and systems administrator focused on project agility, process automation, technical documentation, and educational technology that positively impacts students and teachers.
 
+![Website](https://img.shields.io/website?down_color=red&down_message=Offline&label=lotspaih.com&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Flotspaih.com)
+
+![Keybase PGP](https://img.shields.io/keybase/pgp/lotspaih?color=green&style=for-the-badge)
+
 #### Languages and Tools I Use Most Often:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -18,4 +22,6 @@ A continuously learning IT project manager and systems administrator focused on 
 <br />
 
 :four: :two: "We are stuck with technology when what we really want is just stuff that works." - [Douglas Adams](https://douglasadams.com/)
+
+
 
