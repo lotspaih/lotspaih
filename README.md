@@ -1,6 +1,6 @@
 # Mark Lotspaih
 
-A continuously learning IT project manager and systems administrator focused on project agility, process automation, technical documentation, and educational technology that supports students and teachers.
+A continuously learning IT project manager and systems administrator focused on project agility, process automation, technical documentation, and educational technology that positively impacts students and teachers.
 
 #### Languages and Tools I Use Most Often:
 
