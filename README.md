@@ -1,10 +1,6 @@
 # Mark Lotspaih
 
-A continuously learning IT project manager and systems administrator with a focus on agility, automation, and educational technology.
-
-- :page_with_curl: I enjoy the challenge of managing projects (*and products*), automating boring repetitive processes, and performing data transformations between systems
-- :books: I’m continuing to learn more about automating :robot: with Powershell, and coding with C#
-- :thought_balloon: I'd like to continue improving my technical writing :pencil: and SQL/Database Management skills
+A continuously learning IT project manager and systems administrator focused on project agility, process automation, technical documentation, and educational technology that supports studnets and teachers.
 
 #### Languages and Tools I Use Most Often:
 
@@ -17,7 +13,6 @@ A continuously learning IT project manager and systems administrator with a focu
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
 
 <br />
 <br />
