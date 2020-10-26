@@ -1,6 +1,6 @@
 # Mark Lotspaih
 
-I'm a continuously learning IT project manager and systems administrator focused on agility, automation, documentation, and educational technology that positively impacts students and teachers.
+I'm a continuously learning IT project manager and systems administrator focused on agility, automation, value, and educational technology that positively impacts students and teachers.
 
 ![Website](https://img.shields.io/website?down_color=red&down_message=Offline&label=lotspaih.com&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Flotspaih.com)
 
