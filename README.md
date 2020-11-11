@@ -8,8 +8,6 @@ I'm a continuously learning IT project manager and systems administrator focused
 
 [<img src="https://img.shields.io/badge/rss-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white" />](https://lotspaih.com/blog)
 
-:four: :two: "We are stuck with technology when what we really want is just stuff that works." - [Douglas Adams](https://douglasadams.com/)
-
 #### Technology I Use Most Often:
 
 <img align="left" alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-%234285F4?logo=google-cloud&logoColor=white&style=for-the-badge" />
