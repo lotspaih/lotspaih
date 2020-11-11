@@ -2,21 +2,23 @@
 
 I'm a continuously learning IT project manager and systems administrator focused on agility, automation, value, and educational technology that positively impacts students and teachers.
 
-![Website](https://img.shields.io/website?down_color=red&down_message=Offline&label=lotspaih.com&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Flotspaih.com)
+* :seedling: I'm currently refreshing and honing my [GTD](https://gettingthingsdone.com/what-is-gtd/) practices
+  * :zap: Goal: Get better at capturing all my actionable items and projects
+* :sun_with_face: I enjoy reading, hiking, and playing [pétanque](https://www.w3.org/2001/08/petanque#intro)
 
-![Keybase PGP](https://img.shields.io/keybase/pgp/lotspaih?color=green&style=for-the-badge)
+[<img src="https://img.shields.io/badge/rss-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white" />](https://lotspaih.com/blog)
 
-#### Languages and Tools I Use Most Often:
+#### Technology I Use Most Often:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Powershell" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powershell/powershell.png" />
-<img align="left" alt="Markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-%234285F4?logo=google-cloud&logoColor=white&style=for-the-badge" />
+<img align="left" alt="Powershell" src="https://img.shields.io/badge/powershell-%233776AB.svg?&style=for-the-badge&logo=powershell&logoColor=white" />
+<img align="left" alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />
+<img align="left" alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" />
+<img align="left" alt="HTML" src="https://img.shields.io/badge/html-%23239120.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+<img align="left" alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white" />
+<img align="left" alt="Microsoft Windows" src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" />
+<img align="left" alt="Apple iOS" src="https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white&style=for-the-badge" />
+<img align="left" alt="Ubuntu Linux" src="https://img.shields.io/badge/ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" />
 
 <br />
 <br />
