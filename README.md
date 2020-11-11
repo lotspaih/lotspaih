@@ -2,7 +2,7 @@
 
 I'm a continuously learning IT project manager and systems administrator focused on agility, automation, value, and educational technology that positively impacts students and teachers.
 
-* :seedling: I'm currently updating and improving my [GTD](https://gettingthingsdone.com/what-is-gtd/) practices
+* :seedling: I'm currently refreshing and improving my [GTD](https://gettingthingsdone.com/what-is-gtd/) practices
   * :zap: Goal: Get better at capturing my actionable items and projects
 * :sun_with_face: I enjoy reading, hiking, and playing [pétanque](https://www.w3.org/2001/08/petanque#intro)
 
