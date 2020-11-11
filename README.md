@@ -4,7 +4,7 @@ I'm a continuously learning IT project manager and systems administrator focused
 
 * :seedling: Refreshing and improving my [GTD](https://gettingthingsdone.com/what-is-gtd/) practices
   * :zap: Goal: Get better at capturing my actionable items and projects
-* :sun_with_face: I enjoy reading, hiking, and playing [pétanque](https://www.w3.org/2001/08/petanque#intro)
+* :sun_with_face: I enjoy reading :blue_book:, hiking :sunrise_over_mountains:, and playing [pétanque](https://www.w3.org/2001/08/petanque#intro) :fr:
 
 [<img src="https://img.shields.io/badge/rss-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white" />](https://lotspaih.com/blog)
 
