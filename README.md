@@ -10,18 +10,16 @@ I'm a continuously learning IT project manager and systems administrator focused
 
 #### Technology I Use Most Often:
 
+<p>
 <img align="left" alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-%234285F4?logo=google-cloud&logoColor=white&style=for-the-badge" />
 <img align="left" alt="Powershell" src="https://img.shields.io/badge/powershell-%233776AB.svg?&style=for-the-badge&logo=powershell&logoColor=white" />
 <img align="left" alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />
 <img align="left" alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" />
 <img align="left" alt="HTML" src="https://img.shields.io/badge/html-%23239120.svg?&style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white" />
-<img align="left" alt="Microsoft Windows" src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" />
-<img align="left" alt="Apple iOS" src="https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white&style=for-the-badge" />
-<img align="left" alt="Ubuntu Linux" src="https://img.shields.io/badge/ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" />
 
-<br />
-<br />
+</p>
+
 <p>
 :four: :two: "We are stuck with technology when what we really want is just stuff that works." - [Douglas Adams](https://douglasadams.com/)
 </p>
