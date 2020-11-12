@@ -2,8 +2,8 @@
 
 I'm a continuously learning IT project manager and systems administrator focused on agility, automation, value, and educational technology that positively impacts students and teachers.
 
-* :seedling: Refreshing and improving my [GTD](https://gettingthingsdone.com/what-is-gtd/) practices
-  * :zap: Goal: Get better at capturing my actionable items and projects
+* :seedling: Researching more about Information Technology Service Management [(ITSM)](https://en.wikipedia.org/wiki/IT_service_management)
+* :zap: Goal: Improve my [GTD](https://gettingthingsdone.com/what-is-gtd/) practices and capturing my actionable items
 * :sun_with_face: I enjoy reading :blue_book:, hiking :sunrise_over_mountains:, and playing [pétanque](https://www.youtube.com/watch?v=IjmLFKlVHlk) :fr:
 
 [<img src="https://img.shields.io/badge/rss-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white" />](https://lotspaih.com/blog)
