@@ -4,7 +4,7 @@ I'm a continuously learning IT project manager and systems administrator focused
 
 * :large_blue_circle: Learning more about [scaling](https://www.scrum.org/resources/scaling-scrum) Scrum
 * :zap: Goal: Improve my [GTD](https://gettingthingsdone.com/what-is-gtd/) capturing and engaging practices
-* :sun_with_face: I enjoy reading :blue_book:, hiking :sunrise_over_mountains:, [chess puzzles](https://lichess.org/training/):chess_pawn:, and playing [pétanque](https://www.youtube.com/watch?v=IjmLFKlVHlk) :fr:
+* :sun_with_face: I enjoy reading :blue_book:, hiking :sunrise_over_mountains:, [chess puzzles](http://www.chessproblems.org/quizzer.html?section=all):chess_pawn:, and playing [pétanque](https://www.youtube.com/watch?v=IjmLFKlVHlk) :fr:
 
 
 #### What I Use Most Often:
