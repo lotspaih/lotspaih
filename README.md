@@ -1,6 +1,6 @@
 # Mark Lotspaih
 
-I'm a continuously learning IT project manager and systems administrator focused on adaptability, value, automation, and educational technology that positively impacts students and teachers.
+I'm a continuously learning IT project manager and systems administrator focused on adaptability, automation, and educational technology that positively impacts students and teachers.
 
 * :large_blue_circle: Learning more about [scaling](https://www.scrum.org/resources/scaling-scrum) Scrum
 * :zap: Goal: Improve my [GTD](https://gettingthingsdone.com/what-is-gtd/) capturing and engaging practices
