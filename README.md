@@ -1,6 +1,6 @@
 # Mark Lotspaih
 
-I'm a continuously learning IT project manager and systems administrator focused on adaptability, automation, and educational technology that positively impacts students and teachers.
+I'm Mark, a continuously learning IT project manager and systems administrator focused on adaptability, automation, and educational technology that positively impacts students, teachers, and staff.
 
 * :radio: Learning more about RF signal [propagation](http://www.arrl.org/propagation-of-rf-signals)
 * :zap: Goal: Improve my [GTD](https://gettingthingsdone.com/what-is-gtd/) capturing and engaging practices
