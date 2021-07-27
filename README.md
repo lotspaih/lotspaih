@@ -1,6 +1,6 @@
 # Mark Lotspaih
 
-👋 I'm Mark, a continuously learning project manager and IT systems administrator focused on simplifying projects and processes.
+#### 👋 I'm Mark, a continuously learning project manager and IT systems administrator focused on simplifying projects and processes.
 
 ---
 🧰 My Toolbox
