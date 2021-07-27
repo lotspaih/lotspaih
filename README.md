@@ -1,6 +1,6 @@
 # Mark Lotspaih
 
-👋 I'm Mark, a continuously learning IT project manager and systems administrator focused on adaptability, automation, and educational technology that positively impacts students, teachers, and staff.
+👋 I'm Mark, a continuously learning project manager and IT systems administrator focused on automation, streamlining, and implementing educational technology that positively impacts students, teachers, and staff.
 
 ---
 🧰 My Toolbox
