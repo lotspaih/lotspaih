@@ -1,6 +1,6 @@
 # Mark Lotspaih
 
-#### 👋 I'm Mark, a continuously learning project manager and systems administrator focused on workflow automation and efficiency.
+#### 👋 I'm Mark, a continuously learning project manager and systems administrator focused on workflow automation and efficiency. I work in K-12 public education where I help manage, support, and integrate educational technology solutions into classroom instruction, remote learning, and district operations. 
 
 ---
 🧰 My Toolbox
