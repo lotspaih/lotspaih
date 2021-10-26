@@ -1,10 +1,10 @@
 # Mark Lotspaih
 
-👋 Hello! I'm Mark, a continuously learning systems administrator and IT project manager focused on workflow automation and efficiency. 
+👋 Hello! I'm Mark, a continuously learning systems administrator, IT project manager, and novice data analyst focused on workflow automation and efficiency. 
 
 :school: I work in K-12 public education where I help manage, support, and integrate educational technology solutions into classroom instruction, remote learning, and district operations. 
 
-:notebook: Currently learning about data analytics.
+:notebook: Currently studying data analytics.
 
 ---
 🧰 MY TOOLBOX:
