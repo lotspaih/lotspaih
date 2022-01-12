@@ -1,8 +1,8 @@
 # Mark Lotspaih
 
-👋 Hello! I'm Mark, a continuously learning systems administrator and IT project manager. 
+👋 Hello! I'm Mark, a continuously learning information technologist and project manager. 
 
-:school: I work in K-12 public education where I help manage, support, and integrate educational technology solutions into classroom instruction, remote learning, and district operations. 
+:school: I work in K-12 public education as a systems administrator where I help manage, support, and integrate educational technology solutions into classroom instruction, remote learning, and district operations. 
 
 ---
 🧰 MY TOOLBOX:
