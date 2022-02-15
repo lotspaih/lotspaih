@@ -1,4 +1,4 @@
-👋 Hi! I'm Mark, a continuously learning information technologist focusing on project management, process automation, technical writing, and data analytics. 
+👋 Hi! I'm Mark, a continuously learning information technologist focusing on the areas of project management, process automation, and data analytics. 
 
 :school: I work in K-12 public education as a systems administrator where I help manage, support, and integrate educational technology solutions into classroom instruction, remote learning, and district operations. 
 
