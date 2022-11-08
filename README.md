@@ -1,6 +1,6 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 
-👋 Hi! I'm Mark, a continuously learning information technologist with a focus on project management, workflow automation, and documentation. 
+👋 Hello! I'm Mark, a continuously learning information technologist with a focus on project management, workflow automation, and documentation. 
 
 :school: I work in K-12 public education as a systems administrator where I help manage, support, and integrate educational technology solutions into classroom instruction, remote learning, and district operations. 
 
