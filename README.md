@@ -7,8 +7,19 @@
 
 🧰 MY TOOLBOX:
 
-<img src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/windows/windows.png" alt="Windows Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powershell/powershell.png" alt="Powershell Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="Visual Studio Code Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" alt="Markdown Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/html5/html5-plain.svg" alt="HTML5 Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/css3/css3-plain.svg" alt="CSS3 Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/firefox/firefox-original.svg" alt="Firefox Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/googlecloud/googlecloud-original.svg" alt="GoogleCloud Logo" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/256px-Sqlite-square-icon.svg.png" alt="SQLite Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" alt="JSON Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="C# Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" alt="iOS Logo" width="50" height="50"/>
-
+![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&labelColor=white)
+![iOS](https://img.shields.io/badge/-Apple-000000?logo=ios)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&labelColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite)
+![Firefox](https://img.shields.io/badge/-Firefox-FF7139?logo=firefoxbrowser&labelColor=white)<br>
+![Powershell](https://img.shields.io/badge/-Powershell-5391FE?logo=powershell&labelColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&labelColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&labelColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
+![JSON](https://img.shields.io/badge/-JSON-000000?logo=json)
 
 
 > “_Life in the real world is far more interesting, far more important, far richer, than anything you'll ever find on a computer screen._” -[Clifford Stoll](https://en.wikipedia.org/wiki/Clifford_Stoll), _Silicon Snake Oil_
