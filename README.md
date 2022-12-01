@@ -7,7 +7,7 @@
 
 🧰 MY TOOLBOX:
 
-![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows)
+![Microsoft](https://img.shields.io/badge/-Microsoft-5E5E5E?logo=microsoft)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&labelColor=white)
 ![iOS](https://img.shields.io/badge/-Apple-000000?logo=ios)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&labelColor=white)
