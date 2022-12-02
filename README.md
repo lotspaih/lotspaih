@@ -15,8 +15,7 @@
 ![Joplin](https://img.shields.io/badge/-Joplin-1071D3?logo=joplin)
 ![Chocolatey](https://img.shields.io/badge/-Chocolatey-80B5E3?logo=chocolatey&labelColor=white)
 ![cURL](https://img.shields.io/badge/-cURL-073551?logo=curl)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite)
-![Firefox](https://img.shields.io/badge/-Firefox-FF7139?logo=firefoxbrowser&labelColor=white)<br>
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite)<br>
 ![Powershell](https://img.shields.io/badge/-Powershell-5391FE?logo=powershell&labelColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&labelColor=white)
 ![AutoHotKey](https://img.shields.io/badge/-AutoHotKey-334455?logo=autohotkey)
