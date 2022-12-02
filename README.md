@@ -16,8 +16,7 @@
 ![Chocolatey](https://img.shields.io/badge/-Chocolatey-80B5E3?logo=chocolatey&labelColor=white)
 ![cURL](https://img.shields.io/badge/-cURL-073551?logo=curl)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite)
-![Firefox](https://img.shields.io/badge/-Firefox-FF7139?logo=firefoxbrowser&labelColor=white)
-[![Pastebin](https://img.shields.io/badge/-Pastebin-02456C?logo=pastebin)](https://pastebin.com/u/mlot)<br>
+![Firefox](https://img.shields.io/badge/-Firefox-FF7139?logo=firefoxbrowser&labelColor=white)<br>
 ![Powershell](https://img.shields.io/badge/-Powershell-5391FE?logo=powershell&labelColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&labelColor=white)
 ![AutoHotKey](https://img.shields.io/badge/-AutoHotKey-334455?logo=autohotkey)
@@ -25,6 +24,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&labelColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
 ![JSON](https://img.shields.io/badge/-JSON-000000?logo=json)<br>
+[![Pastebin](https://img.shields.io/badge/-Pastebin-02456C?logo=pastebin)](https://pastebin.com/u/mlot)
 
 
 > “_Life in the real world is far more interesting, far more important, far richer, than anything you'll ever find on a computer screen._” -[Clifford Stoll](https://en.wikipedia.org/wiki/Clifford_Stoll), _Silicon Snake Oil_
