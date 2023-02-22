@@ -12,7 +12,7 @@
 ![iOS](https://img.shields.io/badge/-Apple-000000?logo=ios)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&labelColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode)
-![Joplin](https://img.shields.io/badge/-Joplin-1071D3?logo=joplin)
+[![Joplin](https://img.shields.io/badge/-Joplin-1071D3?logo=joplin)](https://joplinapp.org/)
 ![Chocolatey](https://img.shields.io/badge/-Chocolatey-80B5E3?logo=chocolatey&labelColor=white)
 ![cURL](https://img.shields.io/badge/-cURL-073551?logo=curl)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite)<br>
