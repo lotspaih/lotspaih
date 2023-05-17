@@ -16,8 +16,8 @@
 ![Chocolatey](https://img.shields.io/badge/-Chocolatey-80B5E3?logo=chocolatey&labelColor=white)
 ![cURL](https://img.shields.io/badge/-cURL-073551?logo=curl)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite)<br>
-![Powershell](https://img.shields.io/badge/-Powershell-5391FE?logo=powershell&labelColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&labelColor=white)
+[![Powershell](https://img.shields.io/badge/-Powershell-5391FE?logo=powershell&labelColor=white)](https://github.com/PowerShell/PowerShell)
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&labelColor=white)](https://www.python.org/)
 ![AutoHotKey](https://img.shields.io/badge/-AutoHotKey-334455?logo=autohotkey)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&labelColor=white)
