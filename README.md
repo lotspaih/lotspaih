@@ -4,8 +4,7 @@
 
 :school: I work in K-12 public education as a systems administrator where I help manage, support, and integrate educational technology solutions into classroom instruction, remote learning, and district operations. 
 
-<details>
-  <summary>🧰 My Toolbox</summary>
+🧰 My "Toolbox"
   
 ![Microsoft](https://img.shields.io/badge/-Microsoft-5E5E5E?logo=microsoft)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&labelColor=white)
@@ -23,8 +22,5 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&labelColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
 ![JSON](https://img.shields.io/badge/-JSON-000000?logo=json)<br>
-[![Pastebin](https://img.shields.io/badge/-Pastebin-02456C?logo=pastebin)](https://pastebin.com/u/mlot)
-  
-</details>
 
 > “_Life in the real world is far more interesting, far more important, far richer, than anything you'll ever find on a computer screen._” -[Clifford Stoll](https://en.wikipedia.org/wiki/Clifford_Stoll), _Silicon Snake Oil_
