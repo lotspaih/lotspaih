@@ -23,4 +23,4 @@
 
 > “_Life in the real world is far more interesting, far more important, far richer, than anything you'll ever find on a computer screen._” -[Clifford Stoll](https://en.wikipedia.org/wiki/Clifford_Stoll), _Silicon Snake Oil_
 
-☮️for 🇺🇦 🇮🇱 
+🙏☮️4️⃣ 🇺🇦 🇮🇱 
