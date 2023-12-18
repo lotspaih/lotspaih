@@ -11,8 +11,8 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode)
 [![Joplin](https://img.shields.io/badge/-Joplin-1071D3?logo=joplin)](https://joplinapp.org/)
 [![Chocolatey](https://img.shields.io/badge/-Chocolatey-80B5E3?logo=chocolatey&labelColor=white)](https://chocolatey.org/)
-![cURL](https://img.shields.io/badge/-cURL-073551?logo=curl)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite)
+[![cURL](https://img.shields.io/badge/-cURL-073551?logo=curl)](https://curl.se/)
+[![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite)](https://www.sqlite.org/)
 ![Notepad++](https://img.shields.io/badge/-Notepad++-90E59A?logo=notepadplusplus&labelColor=white)<br>
 [![Powershell](https://img.shields.io/badge/-Powershell-5391FE?logo=powershell&labelColor=white)](https://github.com/PowerShell/PowerShell)
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&labelColor=white)](https://www.python.org/)
