@@ -1,4 +1,4 @@
-👋 Hello! I'm Mark, a continuously learning [IT generalist](https://en.wikipedia.org/wiki/Information_technology_generalist) with a focus on project management, process automation, and systems administration. 
+👋 Hello! I'm Mark, a continuously learning [IT generalist](https://en.wikipedia.org/wiki/Information_technology_generalist) with a focus on project management, process automation, and systems administration. I'm a long time proponent of open source, open protocols, and online privacy.
 
 :school: I work in K-12 public education as a [systems administrator](https://xkcd.com/705/) where I help manage, support, and integrate educational technology solutions into classroom instruction, remote learning, and district operations. 
 
