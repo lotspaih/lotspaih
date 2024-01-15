@@ -4,16 +4,18 @@
 
 🧰 My "Toolbox"
   
-![Microsoft](https://img.shields.io/badge/-Microsoft-5E5E5E?logo=microsoft)
 [![LinuxMint](https://img.shields.io/badge/-LinuxMint-87CF3E?logo=linuxmint&labelColor=white)](https://www.linuxmint.com/)
 ![iOS](https://img.shields.io/badge/-Apple-000000?logo=ios)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&labelColor=white)
+![Microsoft](https://img.shields.io/badge/-Microsoft-5E5E5E?logo=microsoft)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode)
 [![Joplin](https://img.shields.io/badge/-Joplin-1071D3?logo=joplin)](https://joplinapp.org/)
 [![Chocolatey](https://img.shields.io/badge/-Chocolatey-80B5E3?logo=chocolatey&labelColor=white)](https://chocolatey.org/)
 [![cURL](https://img.shields.io/badge/-cURL-073551?logo=curl)](https://curl.se/)
 [![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite)](https://www.sqlite.org/)
 [![Notepad++](https://img.shields.io/badge/-Notepad++-90E59A?logo=notepadplusplus&labelColor=white)](https://notepad-plus-plus.org/)<br>
+[![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&labelColor=white)](https://www.cloudflare.com/)
+[![iCloud](https://img.shields.io/badge/-iCloud-3693F3?logo=icloud&labelColor=white)](https://www.icloud.com/)
 [![Powershell](https://img.shields.io/badge/-Powershell-5391FE?logo=powershell&labelColor=white)](https://github.com/PowerShell/PowerShell)
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&labelColor=white)](https://www.python.org/)
 ![AutoHotKey](https://img.shields.io/badge/-AutoHotKey-334455?logo=autohotkey)
