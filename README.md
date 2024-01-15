@@ -5,7 +5,7 @@
 🧰 My "Toolbox"
   
 ![Microsoft](https://img.shields.io/badge/-Microsoft-5E5E5E?logo=microsoft)
-[![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&labelColor=white)](https://ubuntu.com/download/desktop)
+[![LinuxMint](https://img.shields.io/badge/-LinuxMint-87CF3E?logo=linuxmint&labelColor=white)](https://www.linuxmint.com/)
 ![iOS](https://img.shields.io/badge/-Apple-000000?logo=ios)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&labelColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode)
