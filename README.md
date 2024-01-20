@@ -4,16 +4,16 @@
 
 🧰 My "Toolbox"
   
-[![LinuxMint](https://img.shields.io/badge/-LinuxMint-87CF3E?logo=linuxmint&labelColor=white)](https://www.linuxmint.com/)
+[![LMDE](https://img.shields.io/badge/-LMDE-87CF3E?logo=linuxmint&labelColor=white)](https://www.linuxmint.com/download_lmde.php)
 ![iOS](https://img.shields.io/badge/-Apple-000000?logo=ios)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&labelColor=white)
 ![Microsoft](https://img.shields.io/badge/-Microsoft-5E5E5E?logo=microsoft)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode)
+![VSCodium](https://img.shields.io/badge/-VSCodium-2F80ED?logo=vscodium&labelColor=white)
 [![Joplin](https://img.shields.io/badge/-Joplin-1071D3?logo=joplin)](https://joplinapp.org/)
 [![Chocolatey](https://img.shields.io/badge/-Chocolatey-80B5E3?logo=chocolatey&labelColor=white)](https://chocolatey.org/)
 [![cURL](https://img.shields.io/badge/-cURL-073551?logo=curl)](https://curl.se/)
 [![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite)](https://www.sqlite.org/)
-[![Notepad++](https://img.shields.io/badge/-Notepad++-90E59A?logo=notepadplusplus&labelColor=white)](https://notepad-plus-plus.org/)<br>
+![Gnu Bash](https://img.shields.io/badge/-GNUBash-4EAA25?logo=gnubash&labelColor=white)<br>
 [![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&labelColor=white)](https://www.cloudflare.com/)
 [![iCloud](https://img.shields.io/badge/-iCloud-3693F3?logo=icloud&labelColor=white)](https://www.icloud.com/)
 [![Powershell](https://img.shields.io/badge/-Powershell-5391FE?logo=powershell&labelColor=white)](https://github.com/PowerShell/PowerShell)
