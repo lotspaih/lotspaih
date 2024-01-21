@@ -1,10 +1,10 @@
-👋 Hello! I'm Mark, a continuously learning [IT generalist](https://en.wikipedia.org/wiki/Information_technology_generalist) with a focus on project management, process automation, and systems administration. I'm a long time proponent of open source, open protocols, and online privacy.
+👋 Hello! I'm Mark, a continuously learning [IT generalist](https://en.wikipedia.org/wiki/Information_technology_generalist) with a focus on project management, process automation, and systems administration. I'm a long time supporter of open source, open protocols, and online privacy.
 
 :school: I work in K-12 public education as a [systems administrator](https://xkcd.com/705/) where I help manage, support, and integrate educational technology solutions into classroom instruction, remote learning, and district operations. 
 
-🧰 My "Toolbox"
+🧰 My "toolbox":
   
-[![LMDE](https://img.shields.io/badge/-LMDE-87CF3E?logo=linuxmint&labelColor=white)](https://www.linuxmint.com/download_lmde.php)
+[![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian)](https://www.debian.org/)
 ![iOS](https://img.shields.io/badge/-Apple-000000?logo=ios)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&labelColor=white)
 ![Microsoft](https://img.shields.io/badge/-Microsoft-5E5E5E?logo=microsoft)
@@ -12,8 +12,7 @@
 [![Joplin](https://img.shields.io/badge/-Joplin-1071D3?logo=joplin)](https://joplinapp.org/)
 [![Chocolatey](https://img.shields.io/badge/-Chocolatey-80B5E3?logo=chocolatey&labelColor=white)](https://chocolatey.org/)
 [![cURL](https://img.shields.io/badge/-cURL-073551?logo=curl)](https://curl.se/)
-[![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite)](https://www.sqlite.org/)
-![Gnu Bash](https://img.shields.io/badge/-GNUBash-4EAA25?logo=gnubash&labelColor=white)<br>
+[![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite)](https://www.sqlite.org/)<br>
 [![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&labelColor=white)](https://www.cloudflare.com/)
 [![iCloud](https://img.shields.io/badge/-iCloud-3693F3?logo=icloud&labelColor=white)](https://www.icloud.com/)
 [![Powershell](https://img.shields.io/badge/-Powershell-5391FE?logo=powershell&labelColor=white)](https://github.com/PowerShell/PowerShell)
