@@ -1,3 +1,5 @@
+# In process of migrating to Sourcehut...
+
 👋 Hello! I'm Mark, a continuously learning [IT generalist](https://en.wikipedia.org/wiki/Information_technology_generalist) with a focus on project management, process automation, and systems administration. I'm a proponent of [open source](https://www.spi-inc.org/), open protocols, the [small](https://portal.mozz.us/) decentralized web, and [online privacy](https://epic.org/).
 
 :school: I work in K-12 public education as a [systems administrator](https://xkcd.com/705/) where I help manage, support, and integrate educational technology solutions into classroom instruction, remote learning, and district operations. 
