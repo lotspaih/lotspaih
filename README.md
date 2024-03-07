@@ -17,7 +17,7 @@
 [![iCloud](https://img.shields.io/badge/-iCloud-3693F3?logo=icloud&labelColor=white)](https://www.icloud.com/)
 [![Powershell](https://img.shields.io/badge/-Powershell-5391FE?logo=powershell&labelColor=white)](https://github.com/PowerShell/PowerShell)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&labelColor=white)
-[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&labelColor=white)](https://www.python.org/)
+[![Golang](https://img.shields.io/badge/-Go-00ADD8?logo=go&labelColor=white)](https://www.go.dev/)
 ![AutoHotKey](https://img.shields.io/badge/-AutoHotKey-334455?logo=autohotkey)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&labelColor=white)
