@@ -2,7 +2,7 @@
 
 :school: I work in K-12 public education where I help manage, support, and integrate educational technology solutions into classroom instruction, remote learning, and district operations. 
 
-🧰 My essentials "_toolbox_":
+🧰 /uses
   
 [![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian)](https://www.debian.org/)
 ![iOS](https://img.shields.io/badge/-Apple-000000?logo=ios)
@@ -26,4 +26,4 @@
 
 > “_Life in the real world is far more interesting, far more important, far richer, than anything you'll ever find on a computer screen._” -[Clifford Stoll](https://en.wikipedia.org/wiki/Clifford_Stoll), _Silicon Snake Oil_
 
-### Mostly [migrated](https://GiveUpGitHub.org)  to Sourcehut...
+### Largely [migrated](https://GiveUpGitHub.org)  to Sourcehut...
