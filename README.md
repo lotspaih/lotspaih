@@ -3,7 +3,8 @@
 :school: I work in K-12 public education where I help manage, support, and integrate educational technology solutions into classroom instruction, remote learning, and district operations. 
 
 🧰 /uses
-  
+
+[![Fedora](https://img.shields.io/badge/-Fedora-51A2DA?logo=fedora&labelColor=white)](https://fedoraproject.org/)
 [![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian)](https://www.debian.org/)
 ![iOS](https://img.shields.io/badge/-Apple-000000?logo=ios)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&labelColor=white)
